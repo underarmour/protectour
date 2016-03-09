@@ -4,4 +4,4 @@ Rebase PR's into a single commit unless they have discrete changes.  Look at exi
 
 ## Coding Standards
 
-* Follow [Airbnb's Javascript Standards](airbnb/javascript)
+* Follow [Airbnb's Javascript Standards](/airbnb/javascript)
